@@ -1,0 +1,6 @@
+framework module Pods_AF3 {
+  umbrella header "Pods-AF3-umbrella.h"
+
+  export *
+  module * { export * }
+}
